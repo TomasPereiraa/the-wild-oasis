@@ -69,6 +69,8 @@ Before you begin, ensure you have the following installed:
 1. **Start the development server:**
    ```sh
    npm run dev
+   ![image](https://github.com/user-attachments/assets/4a383733-baf9-40e6-873f-7391da2d1711)
+
    ```
 2. Open your browser and navigate to `http://localhost:5173/`.
 
